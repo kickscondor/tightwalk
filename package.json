@@ -1,0 +1,31 @@
+{
+  "name": "tightwalk",
+  "version": "0.9.0",
+  "description": "A simple directory walker that doesn't bail on errors.",
+  "main": "tightwalk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kickscondor/tightwalk.git"
+  },
+  "keywords": [
+    "recursive",
+    "directory",
+    "fs",
+    "walk"
+  ],
+  "author": "Kicks Condor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kickscondor/tightwalk/issues"
+  },
+  "homepage": "https://github.com/kickscondor/tightwalk",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
